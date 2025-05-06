@@ -1,4 +1,3 @@
----
 
 ````markdown
 # PyQt5 GUI Application Examples
@@ -85,4 +84,4 @@ A larger form collecting full name, email, phone number, gender, country, subscr
 
 * Shows a summary of the form input in a message box
 
----
+```
