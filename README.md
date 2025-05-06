@@ -32,9 +32,9 @@ pip install PyQt5
 Each example is a standalone script. You can run them using Python:
 
 ```bash
-python simple_window.py
-python simple_form.py
-python advanced_form.py
+simple_window.py
+simple_form_implementation.py
+form_implementation.py
 ```
 
 (Replace filenames according to your actual script names.)
